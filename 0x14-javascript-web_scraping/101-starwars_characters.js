@@ -32,4 +32,3 @@ const getCharacters = (index) => {
     getCharacters(index + 1);
   });
 };
-

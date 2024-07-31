@@ -22,4 +22,3 @@ request.get(url, { json: true }, (error, response, body) => {
     });
   });
 });
-
